@@ -1,5 +1,7 @@
 # Google Bangk!t Final Project
-This repo contains Art-Images Classification using CNN
+This repo contains Art-Images Classification using CNN (Using Inception-V3 as improvement method)
+
+deployed model link:https://bangkit-art-classification.herokuapp.com/
 
 JKT4-A Team:
 - Ferro Geraldi Hardian
