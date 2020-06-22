@@ -7,6 +7,7 @@ JKT4-A Team:
 - Wina Rahmawati
 
 Sumber data:
+
 Data berupa data citra yang bersumber dari kaggle dataset https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
 
 Rincian data:
