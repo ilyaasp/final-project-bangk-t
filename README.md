@@ -13,18 +13,18 @@ Data berupa data citra yang bersumber dari kaggle dataset https://www.kaggle.com
 Rincian data:
 
   training_set:
-    drawings -> all images (1107) are fine
-    engraving -> (760) 3 images are corrupt
-    iconography -> 2079 with 2 corrupt (2077)
-    painting -> 2128 corrupt 84 (2042)
-    sculpture -> 1745 corrupt 7 (1738)
+    - drawings -> 1107 citra
+    - engraving -> 760 citra, 3 citra rusak
+    - iconography -> 2079 citra, 2 citra rusak
+    - painting -> 2128 citra, 84 citra rusak 
+    - sculpture -> 1745 citra, 7 citra rusak
     
   validation_set:
-    drawings -> 122
-    engraving -> 84
-    iconography -> 231
-    painting -> 236 corrupt 8 (226)
-    sculpture -> 193 corrupt 2 (191)
+    - drawings -> 122 citra
+    - engraving -> 84 citra
+    - iconography -> 231 citra
+    - painting -> 236 citra, 8 citra rusak
+    - sculpture -> 193 citra, 2 citra rusak
 
 Pembuatan Model:
 
