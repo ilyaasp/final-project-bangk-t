@@ -26,7 +26,12 @@ Data berupa data citra yang bersumber dari kaggle dataset https://www.kaggle.com
   - painting -> 236 citra, 8 citra rusak
   - sculpture -> 193 citra, 2 citra rusak
 
-Pembuatan Model:
+## Pembuatan Model:
+
+
+
+## Model Deployment:
+
 
 
 
