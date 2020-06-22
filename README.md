@@ -8,11 +8,11 @@ JKT4-A Team:
 - Ilyas Perlindungan
 - Wina Rahmawati
 
-## Sumber data:
+## Data Source:
 
-Data berupa data citra yang bersumber dari kaggle dataset https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
+This data is in the form of image data sourced from the Kaggle dataset : https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
 
-## Rincian data:
+## Data Details:
 
   training_set:
   - drawings -> 1107 citra
@@ -28,7 +28,7 @@ Data berupa data citra yang bersumber dari kaggle dataset https://www.kaggle.com
   - painting -> 236 citra, 8 citra rusak
   - sculpture -> 193 citra, 2 citra rusak
 
-## Pembuatan Model:
+## Model Building:
 
 
 
