@@ -28,7 +28,7 @@ This data is in the form of image data sourced from the Kaggle dataset : https:/
   - painting -> 236 images, 8 corrupted images
   - sculpture -> 193 images, 2 corrupted images
 
-## Model Building:
+## Model Development:
 
 
 
