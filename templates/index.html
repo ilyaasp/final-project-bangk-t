@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>TF JS example</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.11.7"></script>
+    <!-- <link rel="stylesheet" href="../static/frontend/styles.css"> -->
+</head>
+
+<body>
+    <h1 class="title">Art Images Classification</h1>
+    <p class="tagline">Drawings - Paintings - Sculpture - Engraving - Iconography</p>
+    <h2 class="title">When you first time press predict it will take some time</h2>
+    <main class="file-form">
+        <input type="file" id="file" multiple class="file-form__select-file">
+        <label for="file" class="file-form__select-file_label">Choose files</label>
+        <button type="submit" class="file-form__button file-form__button_predict" id="predict">Predict</button>
+        <button type="submit" class="file-form__button file-form__button_clear" id="clear">Clear</button>
+        <span class="file-form__files" id="number-of-files"></span>
+    </main>
+    <div id="preview"></div>
+    <script src="../static/main.js"></script>
+</body>
+
+</html>
